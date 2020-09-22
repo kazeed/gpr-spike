@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace gpr_spikle_lib
+namespace gpr_spike_lib
 {
     public class Sampler
     {
