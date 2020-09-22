@@ -3,3 +3,7 @@
 */bin
 *.suo
 /.vs
+*.nupkg
+*.nuspec
+*.sha512
+*.metadata

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpr-spike-lib", "gpr-spike-lib.csproj", "{BB95DF1B-E041-4740-8C49-96FE607BAE1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpr-spike-lib", "gpr-spike-lib\gpr-spike-lib.csproj", "{BB95DF1B-E041-4740-8C49-96FE607BAE1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
