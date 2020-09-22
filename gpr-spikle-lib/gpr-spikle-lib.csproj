@@ -5,6 +5,7 @@
 		<RootNamespace>gpr_spikle_lib</RootNamespace>
 		<IsPackable>false</IsPackable>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Version>0.1</Version>
 	</PropertyGroup>
 
 </Project>
